@@ -3,7 +3,6 @@ layout: post
 title: Kawa po wietnamsku
 image: assets/Kawa wietnamska.JPG
 ---
-![Kawa po wietnamsku](assets/Kawa wietnamska.JPG)
 
 Żyjemy w bardzo stresujących czasach. Warto więc sobie okazyjnie poprawić nastrój, choćby robiąc dobrą (albo nietypową) kawę. Szczególnie, że nie ma na razie większych szans na wyjście do ulubionej kawiarni.
 
