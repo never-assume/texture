@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kawa po wietnamsku
+image: assets/Kawa wietnamska.JPG
 ---
 ![Kawa po wietnamsku](assets/Kawa wietnamska.JPG)
 
