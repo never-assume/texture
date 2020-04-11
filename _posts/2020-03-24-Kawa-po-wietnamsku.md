@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Kawa po wietnamsku
-image: assets/Kawa wietnamska.JPG
 ---
 
 Żyjemy w bardzo stresujących czasach. Warto więc sobie okazyjnie poprawić nastrój, choćby robiąc dobrą (albo nietypową) kawę. Szczególnie, że nie ma na razie większych szans na wyjście do ulubionej kawiarni.
+
+![Kawa](assets/Kawa wietnamska.JPG)
 
 Proponuję spróbować parzenia na sposób wietnamski, czyli w specjalnym filtrze, bezpośrednio na warstwę skondensowanego, słodzonego mleka. Jeśli zrobicie to jak ja, w szklance albo przeźroczystym kubku, to dodatkowo czekają Was wrażenia wizualne. 
 
