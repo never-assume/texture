@@ -18,8 +18,8 @@ texture:
   title: Piotr Chmiel
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
-  style: red
-  showNav: true
+  style: black
+  showNav: false
   showPicker: false
 
   # generate social links in footer
